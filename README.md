@@ -1,22 +1,12 @@
 # Hi there, I'm Fabio <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://tenor.com/view/moccia-dario-dariomoccia-peffozza-per-gif-22582952"/>
-
 ## I'm a Computer Science and Engineering Student  
-
 - 👨‍💻 Based in Florence, Italy
 - 📚 Studying IT at Itis A. Meucci
 - ⚡  Average Kanye West Enjoyer.
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31clzsjcpwphealccu5u4gwz57p4?si=Io8_5KdgQV69SLTsYUUKFg)
-
----
 
 ### Languages and Tools 🛠 
 
@@ -49,8 +39,3 @@
 </div
   
 <br/>
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-
