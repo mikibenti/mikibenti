@@ -14,6 +14,8 @@
 - 👯 Based in **Florence, Italy**
 
 - ⚡ Fun fact **Average Kanye West Enjoyer.**
+  <br><br>
+  ![giphy](https://github.com/mikibenti/mikibenti/assets/155587371/9168dd37-70e3-40bb-bd82-a0bcc75cb3e2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
