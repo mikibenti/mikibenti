@@ -6,8 +6,6 @@
 - ⚡  Average Kanye West Enjoyer.
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -27,7 +25,7 @@
 <br/>
 
 ---
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31clzsjcpwphealccu5u4gwz57p4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31clzsjcpwphealccu5u4gwz57p4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
